@@ -1,0 +1,7 @@
+^\.github/
+ignore$
+COPYING
+^libwdi/vid_data\.c$
+\.bmp$
+\.gitattributes$
+\.ico$
